@@ -1,0 +1,1 @@
+let arr= [audio,video,image,software,documents,applications,other]
